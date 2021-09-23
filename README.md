@@ -13,33 +13,33 @@ a word correctly, that word is removed from the stack.
 ``````
            Game start
 ```````
-![Screenshot (122)](https://user-images.githubusercontent.com/47029978/60966269-23ff7e80-a318-11e9-8b51-5be6afb118bd.png)
+![score2](https://user-images.githubusercontent.com/47029978/134536082-8f923794-1169-4715-80b6-8f8d1076ff4f.PNG)
 
 
 ``````
            Game when you type correct letter
 ```````
-![Screenshot (123)](https://user-images.githubusercontent.com/47029978/60966900-9de43780-a319-11e9-9e27-f28d942efa99.png)
+![score4](https://user-images.githubusercontent.com/47029978/134536091-4dcf7de7-f16c-4dd8-bda5-1d07f7b82ca8.PNG)
 
 
 ``````
           Game when you type wrong letter
 ```````
-![Screenshot (124)](https://user-images.githubusercontent.com/47029978/60967072-12b77180-a31a-11e9-8adf-f9ca25ff441f.png)
+![score5](https://user-images.githubusercontent.com/47029978/134536094-6f932d04-c765-494e-8ae6-d2a738f0b1c4.PNG)
 
 
 ``````
-          Game when you type board
+          Game board
 ```````
 
-![Screenshot (125)](https://user-images.githubusercontent.com/47029978/60967176-4c887800-a31a-11e9-9535-d83b79b9b9d9.png)
+![score3](https://user-images.githubusercontent.com/47029978/134536087-3393e1b5-c7bc-49bb-a3d0-e72aa5fdf157.PNG)
 
 
 ``````
            Game whith saved results
 ```````
 
-![Screenshot (126)](https://user-images.githubusercontent.com/47029978/60979490-1b687180-a333-11e9-9cac-377bf531a012.png)
+![score1](https://user-images.githubusercontent.com/47029978/134536070-e4aa6773-8409-4019-ae16-1c695ebf3adb.PNG)
 
 
 To get the project up and running on your local machine, please follow these instructions.
