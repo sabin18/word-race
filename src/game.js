@@ -179,24 +179,21 @@ class GameComponent extends React.Component{
     await GetAllResults();
   };
 
-  
-  
   rating(){
     if(this.state.wordsMastered < 10){
-      return '😫'
-      
+      return 'Try Again To Go To Next Level' 
     }
     else if(this.state.wordsMastered < 20){
-      return '😐'
+      return 'Well Done!'
     }
     else if(this.state.wordsMastered < 30){
-      return '😊'
+      return 'Wowww!'
     }
     else if(this.state.wordsMastered < 40){
-      return '😃'
+      return 'Nice'
     }
     else{
-      return '😎'
+      return 'CONGRATULATIONS'
     }
   }
   
@@ -552,7 +549,8 @@ class GameComponent extends React.Component{
         <div className="game__board" key="timesup">
           <div className="game__words">
             <p>{'TIME IS UP!'}</p>
-            <p>{'FINAL SCORE: ' + this.state.wordsMastered}<span className="emoji">{this.rating()}</span></p>
+            <p>{'FINAL SCORE: ' + this.state.wordsMastered}</p>
+            <p><h5>{this.rating()}</h5></p>
             <button className="button" onClick={this.startGame}>{'Play Again'}</button>
             <button className="button" type="button" onClick={(e)=>this.submitForm(e)}>save Results </button>
           </div>
