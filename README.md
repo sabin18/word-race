@@ -46,8 +46,7 @@ To get the project up and running on your local machine, please follow these ins
 
 - Clon this project on your machine , by running this command on in your command line or Terminal:
  ```
- git clone https://github.com/sabin18/PropertyPro-lite-.git
- 
+ git clone https://github.com/sabin18/word-race.git
  ````
  - Install the required dependencies found in package.json by running this command:
  ```
